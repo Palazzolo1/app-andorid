@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Control de Stock</string>
+    <string name="stock_summary_title">Resumen de inventario</string>
+    <string name="sales_title">Ventas registradas</string>
+    <string name="add_sale">Registrar venta</string>
+    <string name="capture_photo">Capturar foto</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+</resources>
